@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-d1dd3b9127.bdsdkfm.cn/sitemap.xml

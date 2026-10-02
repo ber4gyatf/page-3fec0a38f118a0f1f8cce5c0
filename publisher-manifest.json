@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "c6cc6e809bfffd2d4abd8107",
+  "owner": "ber4gyatf",
+  "repo": "page-3fec0a38f118a0f1f8cce5c0",
+  "title": "祢豆子",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "3fec0a38f118a0f1f8cce5c0",
+      "a": "祢豆子",
+      "b": "",
+      "entity": "祢豆子",
+      "brand": "祢豆子",
+      "separator": "",
+      "path": "index.html",
+      "hash": "53366449e73aa0cfefff0ee07eeb713949e21438a1c49662a4f38ac2271c34f4",
+      "content": {
+        "keyword1": "祢豆子",
+        "keyword2": "",
+        "primary_entity": "祢豆子",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "祢豆子提供官方机场订阅、VPN网络加速与多平台客户端下载，套餐覆盖基础到团队需求，节点稳定适合流媒体与游戏加速。",
+          "AI_DESCRIPTION": "祢豆子提供官方机场订阅、VPN网络加速与多平台客户端下载，套餐覆盖基础到团队需求，节点稳定适合流媒体与游戏加速。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box}body{margin:0;background:#F7F3E9;color:#16351C;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial,sans-serif;font-size:16px;line-height:1.65}header{background:#1B4D3A;color:#F7F3E9;padding:14px 12px} .brand{font-size:1.35rem;font-weight:700}nav{display:flex;flex-wrap:wrap;gap:8px;margin-top:10px}nav a{color:#E7F4EA;text-decoration:none;border:1px solid #4F7F5E;border-radius:4px;padding:6px 10px;font-size:0.92rem}main{max-width:740px;margin:0 auto;padding:16px 12px}h1{margin:4px 0 10px;font-size:1.8rem;color:#1B4D3A}h2{margin:28px 0 12px;font-size:1.32rem;color:#21563A;border-bottom:2px solid #3E7A52;padding-bottom:6px}h3{margin:14px 0 8px;font-size:1.08rem;color:#2C6B48}p{margin:0 0 12px}.lead{font-size:1.04rem}.note{font-size:0.95rem;color:#2A4F34}.plans{display:flex;flex-direction:column;gap:14px}.plan{background:#FFFEF8;border:1px solid #C9D8C6;border-radius:8px;padding:14px}.plan.featured{border:2px solid #1B4D3A;background:#EAF4EC}.price{font-size:1.28rem;font-weight:700;color:#1B4D3A}.annual{display:block;margin-top:4px;font-size:0.9rem;color:#3A6348}ul{margin:8px 0 0;padding-left:1.2rem}.step-list{margin:0;padding:0;list-style:none;counter-reset:s}.step{position:relative;margin:0 0 12px;padding:12px 12px 12px 50px;background:#FFFEF8;border-left:4px solid #1B4D3A;border-radius:0 8px 8px 0}.step:before{counter-increment:s;content:counter(s);position:absolute;left:12px;top:12px;width:26px;height:26px;border-radius:50%;background:#1B4D3A;color:#F7F3E9;text-align:center;line-height:26px;font-weight:700}details{margin:0 0 10px;background:#FFFEF8;border:1px solid #C9D8C6;border-radius:6px}summary{padding:12px;font-weight:650;color:#1B4D3A}details p{padding:0 12px 12px}footer{background:#1B4D3A;color:#E7F4EA;padding:20px 12px;font-size:0.92rem}footer a{color:#B5E0B8;text-decoration:none}.block{margin:0 0 16px}.ad{margin:12px 0;padding:12px;background:#245C42;border-radius:6px}.row{display:flex;flex-wrap:wrap;gap:8px 14px}</style><header><div class=\"brand\">祢豆子官方网站</div><nav><a href=\"#intro\">简介</a><a href=\"#plans\">套餐对比</a><a href=\"#scenes\">使用场景</a><a href=\"#guide\">操作说明</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a></nav></header><main><section id=\"intro\"><h1>祢豆子</h1><p class=\"lead\">祢豆子是面向日常跨境访问的官方机场与 VPN 加速服务，提供可订阅节点、多端客户端下载以及按月重置的极速流量。本页为祢豆子官网入口，用于了解套餐、导入机场订阅并完成客户端配置。</p><p>服务定位清晰：基础线路满足网页与常用应用，旗舰线路侧重原生流媒体与 IPLC 游戏优化，团队线路面向多设备与定制路由。节点覆盖常见亚太与欧美出口，连接过程保持轻量，不依赖复杂脚本。</p></section><section id=\"plans\"><h2>套餐对比</h2><p>按流量、同时在线设备与线路能力纵向对照，便于一次性看清差异。价格以人民币计，年付可降低月均成本。</p><div class=\"plans\"><article class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><span class=\"annual\">按年付仅需 ¥150/年</span><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"plan featured\"><h3>旗舰版（推荐）</h3><p class=\"price\">¥35/月</p><span class=\"annual\">按年付仅需 ¥350/年</span><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><span class=\"annual\">按年付仅需 ¥850/年</span><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></div><p class=\"note\">流量按自然月重置。设备数指同一订阅同时保持连接的终端上限。流媒体与游戏表现受对端策略与本地网络影响，旗舰版与团队版优先分配优质出口。</p></section><section id=\"scenes\"><h2>使用场景</h2><h3>流媒体与内容访问</h3><p>需要观看海外影视、音乐或公开课时，可将客户端切换至标注流媒体的节点。旗舰版强调原生解锁，减少验证失败；基础版适合轻度点播。</p><h3>游戏与实时通讯</h3><p>对延迟和抖动敏感的对战或语音，可选用 IPLC 优化线路。旗舰版将游戏加速作为明确能力，适合晚高峰仍需相对稳定往返时延的用户。</p><h3>办公协作与资料检索</h3><p>远程仓库、文档与会议工具走常规加密通道即可。团队版支持更多终端与定制路由，方便把办公网段与娱乐网段分开。</p><h3>出行与多地切换</h3><p>出差或旅居时在手机与笔记本间共用同一机场订阅，按当地网络质量选择邻近节点，避免反复重新配置。</p></section><section id=\"guide\"><h2>操作说明</h2><p>按纵向步骤完成订阅到连网，全程在祢豆子官网获取配置，避免来路不明的链接。</p><ol class=\"step-list\"><li class=\"step\"><h3>选择套餐并获取订阅</h3><p>对照上方套餐对比确认流量与设备数，完成开通后在账户中复制机场订阅地址。请只在本站官方入口操作。</p></li><li class=\"step\"><h3>下载对应客户端</h3><p>Windows、macOS、Android 与 iOS 使用支持订阅导入的常见客户端。前往本页官方下载说明，安装完成后再导入，勿混用来源不明的安装包。</p></li><li class=\"step\"><h3>导入订阅并更新节点</h3><p>在客户端粘贴订阅链接或使用二维码导入，执行一次更新以拉取最新节点列表。建议开启自动更新，保证线路变更及时同步。</p></li><li class=\"step\"><h3>选择节点并连接</h3><p>日常浏览选延迟较低的普通节点；流媒体选解锁节点；游戏选 IPLC 或游戏优化节点。连接成功后即可作为梯子完成网络加速。</p></li></ol></section><section id=\"nodes\"><h2>节点与访问体验</h2><p>祢豆子节点池包含香港、东京、新加坡、洛杉矶等常用出口，旗舰与团队套餐可使用 IPLC 专线与更高带宽 VIP 线路。普通线路适合网页与即时通讯，专线适合对抖动更敏感的场景。</p><p>客户端侧仅需选择节点并保持订阅更新。若某一出口拥堵，切换同区域备用节点即可，无需改动系统代理规则以外的设置。</p></section><section id=\"download\"><h2>客户端下载与官网指引</h2><p>祢豆子官方下载建议按系统选择：桌面端可使用 Clash 系或 v2rayN 等支持订阅的工具；移动端使用可导入机场订阅的应用。安装完成后回到账户复制订阅，按操作说明第四步连接。</p><p><a href=\"#guide\">查看导入步骤</a> · <a href=\"#faq\">客户端兼容说明</a> · <a href=\"#plans\">返回套餐对比</a></p><p class=\"note\">请认准祢豆子官网获取下载说明与订阅，勿在聊天群随意打开来路不明的安装文件或托管地址。</p></section><section id=\"faq\"><h2>常见问题</h2><details><summary>祢豆子是什么服务？</summary><p>祢豆子是提供机场订阅与 VPN 网络加速的官方站点，通过客户端连接节点实现梯子访问。它面向流媒体、游戏、办公与出行，用套餐区分流量、设备数和线路等级。</p></details><details><summary>如何开始使用祢豆子客户端？</summary><p>先在套餐对比中选定版本并获取订阅链接，再按系统下载支持订阅的客户端，导入后更新节点并连接。详细顺序见本页操作说明四个步骤。</p></details><details><summary>各套餐流量和设备如何理解？</summary><p>基础版每月 100GB、3 台同时在线；旗舰版每月 300GB、5 台；团队版每月 1000GB、20 台。流量按月重置，超出需升级或等待下一周期。同时在线指保持连接的终端数量。</p></details><details><summary>能否解锁流媒体或用于游戏加速？</summary><p>基础版提供基础流媒体能力。旗舰版强调全节点原生解锁并含 IPLC 游戏优化。团队版在高带宽节点上可按企业路由进一步划分。实际可用性会随平台策略变化。</p></details><details><summary>订阅链接应如何保管？</summary><p>订阅等同于账户凭证，应仅通过祢豆子官网复制，不要公开发布或转给无关人员。若怀疑泄露，应在账户侧重置订阅并更新所有客户端。</p></details><details><summary>官方身份与下载地址如何确认？</summary><p>以本页祢豆子官网信息为准：套餐、操作说明、客户端下载指引和工单入口均集中于此。不要通过不明短链跳转所谓加速器安装包。</p></details></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"block\"><strong>祢豆子官网</strong><p>官方网站用于机场订阅说明、VPN 加速器介绍与客户端下载指引。内容与套餐以本页展示为准。</p></div><div class=\"ad\">合作展示：线路资源与客户端适配持续更新，欢迎通过官方工单沟通企业定制路由需求。</div><div class=\"block\"><div>网站地图</div><div class=\"row\"><a href=\"#intro\">品牌简介</a><a href=\"#plans\">套餐对比</a><a href=\"#scenes\">使用场景</a><a href=\"#guide\">操作说明</a><a href=\"#download\">官方下载</a><a href=\"#faq\">FAQ</a><a href=\"#\">XML 地图</a></div></div><div class=\"block\"><div>友情链接</div><div class=\"row\"><a href=\"#\">客户端配置手册</a><a href=\"#\">节点选择建议</a><a href=\"#\">网络加速常识</a><a href=\"#download\">官网下载入口</a></div></div></footer>",
+          "hash": "ad8472d3b47e389f461c426c5a37d1f22a3fc41dfeda161e2ff0bc4a81e1220c",
+          "seo": {
+            "title": "祢豆子官网 | 机场订阅与VPN加速器客户端下载",
+            "keywords": "祢豆子,祢豆子机场,祢豆子VPN,梯子网络加速,加速器,客户端下载,官网下载,机场订阅",
+            "description": "祢豆子提供官方机场订阅、VPN网络加速与多平台客户端下载，套餐覆盖基础到团队需求，节点稳定适合流媒体与游戏加速。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "bdsdkfm.cn",
+    "host": "p-d1dd3b9127.bdsdkfm.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "bdsdkfm.cn",
+      "url": "https://bdsdkfm.cn/",
+      "label": "萌喵加速(Nirvana)",
+      "apex": "bdsdkfm.cn",
+      "kind": null,
+      "identity": "ghc336199/page-791825dde39f7dc985716089"
+    },
+    {
+      "host": "00ah6.cn",
+      "url": "https://00ah6.cn/",
+      "label": "SSHUB",
+      "apex": "00ah6.cn",
+      "kind": null,
+      "identity": "erjwrgjj/page-6141714b7a0f264666643c94"
+    },
+    {
+      "host": "01kmph.cn",
+      "url": "https://01kmph.cn/",
+      "label": "WeGo",
+      "apex": "01kmph.cn",
+      "kind": null,
+      "identity": "wbwftxwku/page-680ee6fa2562d6d22ba5a121"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "a924a27e05ca716ee3702fd3f38fa17ebb8e760341912a78ce8316d1d7abaf73",
+    "sitemap.xml": "722cd50e36d1b15c5c6535896dc079f719a62900c3f2a845729a8941ece7693e",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "eb444cc87e959c0b28c0971521af143d802c2dc6aa678476f0808bbdf14fcfc0",
+    "robots.txt": "e16125b72e2867278e93a0be6c73a591dd542eab490d63c2e912f8ddb02b1059",
+    "e62ef9595867f12aa6c493629cc9caaa.txt": "df300b559e13c99473b2ad55e23cd02f6a5ee7da6f46f5b282659e5a56138c78"
+  },
+  "revision": "57f3ebd12f30d84e9c100b3d90f9fae38b4a7b826b4b43138df4aec73dabbf9b"
+}
